@@ -1,1 +1,1 @@
-# UseAOAIAsMvp
+In 2023 December, KRIS ask if there anyone can share knowledge about how to register AOAI with MVP account.  This guideline for global MVPs, Because there are some MVPs don't have programing background.  Then I wrote slides and sent to KRIS for this knowledge sharing.
